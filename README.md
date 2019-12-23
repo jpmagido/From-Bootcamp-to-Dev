@@ -116,10 +116,10 @@
 `-> Comprendre le marché()`
 
     : Objectifs
-    --> Trouves un CDI frérot, c'est encore trop tôt pour le freelance
-    --> Travailler pour des entrepreneurs c'est bien, mais ta courbe d'apprentissage va ralentir
-    --> Travailler en start-up c'est bien mais au risque que ça manque d'organisation et de Devs séniors
-    --> Cherches un projet d'envergure pour sortir au maximum de ta zone de confort
+    	--> Trouves un CDI frérot, c'est encore trop tôt pour le freelance
+    	--> Travailler pour des entrepreneurs c'est bien, mais ta courbe d'apprentissage va ralentir
+    	--> Travailler en start-up c'est bien mais au risque que ça manque d'organisation et de Devs séniors
+    	--> Cherches un projet d'envergure pour sortir au maximum de ta zone de confort
 
     : Les acteurs
     	--> Les cabinets de recrutement
