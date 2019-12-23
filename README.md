@@ -81,7 +81,7 @@
 
 `-> Work_smart()`
 
-    	: La panoplie du développeur
+    : La panoplie du développeur
     	- Un Editeur de texte custom (VSCode !! ^^)
     	- Une config décente (-> Apple Store lol), (Mini: 13 pouces, 4Go RAM)
 
