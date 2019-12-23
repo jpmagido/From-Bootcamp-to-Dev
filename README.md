@@ -93,7 +93,8 @@
     	- Utilises ta techno préférée
     	- Coder "à la mano" et éviter les pages pré-faites
     	- Soyez simples et authentiques, parlez de ce vous aimez
-    		https://jp-cv-app.herokuapp.com/
+
+https://jp-cv-app.herokuapp.com/
 
     : Mettre à jour / Créer un profil LinkedIn
 
