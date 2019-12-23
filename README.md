@@ -40,13 +40,13 @@
 
 `-> Keep_learning()`
 
-    	: Mon_1e_langage(youtube, *ressources)
-    		- Reprendre les bases / combler mes lacunes
-    		- Me mettre à jour sur les updates technologiques
-    		- Travailler sur des projets concrets & motivants
+    : Mon_1e_langage(youtube, *ressources)
+    	- Reprendre les bases / combler mes lacunes
+    	- Me mettre à jour sur les updates technologiques
+    	- Travailler sur des projets concrets & motivants
 
-    	: Mon_2e_langage(youtube, *ressources)
-    		- Commencer un second langage (Javascript si ce n'est pas le 1e)
+    : Mon_2e_langage(youtube, *ressources)
+    	- Commencer un second langage (Javascript si ce n'est pas le 1e)
 
 `-> Know_my_environment()`
 
@@ -115,11 +115,11 @@
 
 `-> Comprendre le marché()`
 
-    	: Objectifs
-    	--> Trouves un CDI frérot, c'est encore trop tôt pour le freelance
-    	--> Travailler pour des entrepreneurs c'est bien, mais ta courbe d'apprentissage va ralentir
-    	--> Travailler en start-up c'est bien mais au risque que ça manque d'organisation et de Devs séniors
-    	--> Cherches un projet d'envergure pour sortir au maximum de ta zone de confort
+    : Objectifs
+    --> Trouves un CDI frérot, c'est encore trop tôt pour le freelance
+    --> Travailler pour des entrepreneurs c'est bien, mais ta courbe d'apprentissage va ralentir
+    --> Travailler en start-up c'est bien mais au risque que ça manque d'organisation et de Devs séniors
+    --> Cherches un projet d'envergure pour sortir au maximum de ta zone de confort
 
     : Les acteurs
     	--> Les cabinets de recrutement
