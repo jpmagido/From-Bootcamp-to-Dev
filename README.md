@@ -93,6 +93,7 @@
     	- Utilises ta techno préférée
     	- Coder "à la mano" et éviter les pages pré-faites
     	- Soyez simples et authentiques, parlez de ce vous aimez
+    		https://jp-cv-app.herokuapp.com/
 
     : Mettre à jour / Créer un profil LinkedIn
 
@@ -154,3 +155,26 @@
 
     : Codewars (± 5 kyu)
     : HackerRank
+
+# Ressources
+
+`-> Ruby on Youtube`
+
+- Grafikart
+- GoRails
+- Sandy Metz
+- CodeStackR
+- Cookie Connecté
+- Drifting Ruby
+- Zayne
+
+`-> Scrimba`
+
+- Javascript
+- Bootstrap
+- TypeScript
+- Angular
+- React
+- Vue
+
+https://scrimba.com/
