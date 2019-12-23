@@ -52,7 +52,7 @@
 
     : L'histoire_du_développement(wikipédia)
     	- La Programmation et ses paradigmes
-    	- Les langagues historiques
+    	- Les langages historiques
     	- L'évolution
 
     : Le_développement_aujourd'hui(wikipédia, youtube)
